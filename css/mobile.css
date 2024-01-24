@@ -1,0 +1,119 @@
+@media(max-width:480px){
+.seccion1 .izq{
+    margin-left: 0;
+    width: 90%;
+    padding: 0 10px;
+}
+.seccion1{
+    flex-direction: column;
+}
+.seccion1 p, .seccion1 h1{
+    margin: 0;
+}
+.encabezado{
+    display: none;
+}
+.img1{
+    display: none;
+}
+.seccion1 .der{
+    width: 100%;
+}
+
+.imgmobile{
+     display: block;
+     /* width: 69%; */
+}
+.der{/* width: 20%; */width: 100%;}
+
+.seccion3{
+    display: block;
+    flex-direction: column;
+    width: 197%;
+}
+.tresizq{
+    transform: scaleX(-1);
+}
+.seccion3 h5{
+    font-size: 158%;
+}
+.seccion3 .tresder{
+    border-radius: 0 30% 0 0;
+}
+.encabezadomobile{
+    width: 100%;
+}
+.menuhamburguesa{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 70%;
+    max-width: 300px;
+    height: 100%;
+    background-color: #333;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+  .menuhamburguesa.mostrando{
+    transform: translateX(0);
+  }
+  .botonhamburguesa{
+    background-color: #0F1320;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding-left: 59%;
+  }
+  ul {
+    list-style: none;
+  }
+  .encabezadomobile{
+    display: block;
+  }
+  a {
+    text-decoration: none;
+  }
+  .seccion2{
+    display: block;
+  }
+  .hijocaja1{
+    width: 100%;
+    height: 75%;
+    font-size: 201%;
+  }
+  .hijocaja2{
+    width: 100%;
+    height: 75%;
+    font-size: 201%;
+  }
+  .hijocaja1 .circulo1{
+    width: 36%;
+  }
+  .hijocaja2 .circulo2{
+    width: 37%;
+  }
+  .caja2{
+    padding: 0 7% 0 7%;
+  }
+  .seccion3 .texto3{
+    padding-top: 7%;
+  }
+  .seccion4hijo{
+    display: block;
+  ;
+  }
+  .curva{
+    width: 20%;
+  }
+  .q1, .q2, .q3, .q4{
+    padding-bottom: 10%;
+  }
+    
+  }
+
+
+

@@ -1,0 +1,263 @@
+.superpadre {
+    background-color: #0F1320;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.der .img1 {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.seccion1 {
+    display: flex;
+    background-image: url(../img/bg.png);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    width: 100%;
+    /* padding-top: 10%; */
+}
+
+.up {
+    border-radius: 90px;
+    border: 2px solid;
+    width: 30%;
+    text-align: center;
+    padding: 10px 20px;
+}
+.p{
+    color: #DDE2FF
+}
+.boton1 {
+    width: 30%;
+    height: 4%;
+    border-radius: 52px;
+    text-align: center;
+    background: #22A75D;
+    box-shadow: 0px 15px 25px 0px rgba(34, 167, 93, 0.25);
+}
+.seccion1 .der {
+    width: 60%;
+}
+
+.encabezado {
+    position: absolute;
+    margin-left: 2%;
+}
+
+.seccion1 .izq {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 0 0 10%;
+}
+
+.seccion2 {
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.seccion2 .caja1 {
+
+padding: 0 6% 0 10%;
+}
+
+.seccion2 p {
+    font-size: 100%;
+}
+
+.seccion2 .caja2 {
+
+padding: 4% 0 0 0;
+}
+
+.circulo1 {
+    width: 21%;
+}
+
+.circulo2 {
+    width: 18%;
+}
+
+.logo {
+    width: 30%;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 11px;
+}
+
+.logoymenu {
+    padding: 20px;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.sign {
+    display: flex;
+    gap: 24px;
+}
+
+.seccion4 {
+    /* padding: 0 10%  0 10%; */
+}
+
+.seccion4 img {
+    /* width: 35%; */
+}
+
+.seccion4hijo {
+    display: flex;
+    padding: 0 5% 0 5%;
+    margin-top: -9%;
+    gap: 4%;
+}
+
+img {
+    width: 100%;
+}
+
+.seccion4 .imgq1 {
+    width: 44%;
+}
+
+.seccion4 .imgq2 {
+    width: 40%;
+}
+
+.seccion4 .imgq3 {
+    width: 30%;
+}
+
+.seccion4 .imgq4 {
+    width: 40%;
+}
+
+.seccion4 .borde {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+.borde {
+    width: 42%;
+}
+
+.encabezado {
+    /* height: 60px; */
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 98%;
+}
+
+.hijocaja1 {
+    width: 111%;
+    background-color: #171b29;
+    height: 79%;
+    /* font-size: 121%; */
+    border-radius: 5%;
+    padding: 4% 0% 0 4%;
+}
+
+.hijocaja2 {
+    width: 74%;
+    background-color: #171b29;
+    /* font-size: 119%; */
+    border-radius: 5%;
+    padding: 4% 5% 4% 4%;
+}
+
+.imgmobile {
+    display: none;
+}
+
+.seccion2 p {
+    font-size: 54%;
+}
+
+.seccion3 {
+    display: flex;
+}
+
+.seccion3 img {
+    width: 100%;
+    height: 100%;
+}
+
+.tresizq {
+    width: 50%;
+}
+
+.tresder {
+    width: 50%;
+    background-color: white;
+    color: black;
+    border-radius: 50% 0 0 0;
+}
+
+.texto3 {
+    padding: 30% 10% 10% 10%;
+    font-size: 85%;
+}
+
+.seccion4 .q1hijo,
+.q2hijo,
+.q3hijo,
+.q4hijo {
+    display: flex;
+    align-items: center;
+}
+
+.seccion5 {
+    display: flex;
+    width: 100%;
+    margin-top: 6%;
+    /* padding: 3% 0 0 10%; */
+}
+
+.seccion5 .w {
+    width: 63%;
+}
+
+.seccion5 .izq5 {
+    width: 40%;
+    padding-left: 10%;
+}
+
+.seccion5 .izq5hijo {
+    display: flex;
+    align-items: center;
+}
+
+.encabezadomobile {
+    display: none;
+}
+.cartas{
+    display: flex;
+    gap: 10%;
+}
+.carta1, .carta2, .carta3{
+    background-color: white;
+    color: black;
+}
+.uno 
+.fondo6{
+    background-image: url(../img/fondo5.png);
+}
+.texto5 {
+    font-size: 83%;
+}
+
+li {
+    list-style: none;
+}
